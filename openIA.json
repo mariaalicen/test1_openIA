@@ -1,0 +1,56 @@
+{
+  "dado_primeiro":{
+  "userId":1, 
+  "id": 101,
+  "title": "Toda infraestrutura utilizada pelo agende de atendimento em sua casa é preparada e disponibilizada pela Jobhome"
+  "Body": "Evolução do Call Center para o modelo Home Office: A Jobhome é o portal para o futuro onde cada interação é mais do que uma transação."
+},
+
+"dado_segundo":{
+  "userId": 2,
+  "id":102,
+  "title": "O que entregamos?", 
+  "body":"Completo Know How em Operações HomeOffice de Atendimento ao Cliente; Experiência em Gestão de Times Remotos com foco em Produtividade; As Melhores Práticas de Atendimento e Customer Experience (CX); Infraestrutura, Tecnologia, Gestão de Processos e Gestão de Pessoas; Foco em Qualidade, Experiência e Resultado! Criamos uma Cultura Organizacional forte, plural e pautada no bem-estar das pessoas, proporcionando recursos e ambiente adequados para trabalhar."
+},
+"dado_terceiro":{
+  "userId": 3,
+  "id":103,
+  "title": "Os Clientes JobHome têm a Garantia de um acompanhamento próximo e engajado com o resultado de cada operação", 
+},
+  "dado_quarto":{
+    "userId": 4,
+    "id":104,
+    "title": "Nosso diferencial",
+    "body": "Criamos uma Cultura Organizacional forte, plural e pautada no bem-estar das pessoas, proporcionando recursos e ambiente adequados para trabalhar:
+    
+"dado_listaCaracter":[
+  "Comunicação Estratégica",
+  "Gestão por Resultado",
+  "Treinamento & Reciclagem",
+  "Plano de Carreira e Benefícios",
+  "100% HomeOffice!",
+  "Criamos uma Cultura Organizacional forte, plural e pautada no bem-estar das pessoas, proporcionando recursos e ambiente adequados para trabalhar.",
+  "Sistema de Gestão HomeOffice",
+  "Sistema Próprio de Atendimento",
+  "Software e Hardware de Monitoramento e Qualidade",
+  "CRM & IA",
+  "Sistema de Telefonia Voip",
+  "Data Analytics",
+  "URA e Gravação de Voz",
+  "Cloud Solutions e mais!"
+  ],
+   "dado_listaVantagem": [
+    "Menor absenteísmo",
+    "Operações flexíveis",
+    "Implementação acelerada",
+    "Monitoramento full time",
+    "Equipe altamente engajada",
+    "Índice de turnover reduzido",
+    "Treinamento assistido e reciclagem",
+    "Compliance",
+    "Segurança da Informação",
+    "Privacidade de Dados (LGPD)",
+    "Gestão de Processos Internos",
+    "ESG"
+  ]
+}
